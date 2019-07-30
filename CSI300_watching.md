@@ -4,3 +4,9 @@
 - comments
       -waiting for cross
       
+000423
+东阿阿胶
+!["000423"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/000423.SZ.png)  
+- comments
+      -waiting Fast BB up
+      
