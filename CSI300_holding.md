@@ -28,11 +28,11 @@
 - comments  
      继续持有
 
-**002466
-天齐锂业
-!["002466"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002466.SZ.png)
-－ comments
-     绿线向下 有风险 2019/7/31
+**002466  
+天齐锂业  
+!["002466"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002466.SZ.png)  
+－ comments  
+     绿线向下 有风险 2019/7/31  
 
 
 
