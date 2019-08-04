@@ -43,6 +43,18 @@
       后段，绿线大于2.。。可入
       
 
+**600804  
+鹏博士  
+!["600804"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600804.SS.png)  
 
+- comments:
+      Just startup
+      
+ 
+ 
+ **600570  
+ 恒生电子  
+ !["600570"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600570.SS.png)  
+   
 
     
