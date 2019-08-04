@@ -34,7 +34,14 @@
 － comments  
      绿线向下 有风险 2019/7/31  
 
-
+      
+*002714  
+牧原股份
+2019/7/31
+!["002714"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002714.SZ.png)
+- comments
+      后段，绿线大于2.。。可入
+      
 
 
 
