@@ -1,12 +1,5 @@
 
 
-**600900  
-长江电力  
-!["600900"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600900.SS.png)  
-
-- comments:
-      Just startup
-      8/16买入
       
  **000723  
  美锦能源   
@@ -42,6 +35,10 @@
      
  
 **600703  
+三安光电  
  !["600703"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600703.SS.png)  
+ 
+ 可以买   
+ 
  
  
