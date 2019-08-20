@@ -4,28 +4,34 @@
 !["601607"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/601607.SS.png)  
 - comments  
       -waiting for cross  
+      -just cross ...wait ?
+       空间太小
       
-000423  
-东阿阿胶  
-2019/7/30  
-!["000423"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/000423.SZ.png)   
-- comments
-      -waiting Fast BB up  
-      
-*002424  
-贵州百灵  
-2019/7/31  
-!["600804"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600804.SS.png)  
-－ comments
-      绿线刚up
 
-*002065  
-东华软件  
-2019/7/31  
-!["002065"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002065.SZ.png)  
+600376    
+首开股份    
+2019/8/20  
+!["600376"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600376.SS.png)  
 - comments  
-      红绿齐升的可能性大  
-      
+       start grow？
+
+000826    
+启迪环境    
+2019/8/20  
+!["000826"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/000826.SZ.png)  
+- comments  
+       start grow？
+       
+002460    
+赣峰锂业    
+2019/8/20  
+!["002460"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002460.SZ.png)  
+- comments  
+       start grow？      
+       
+       
+
+removed=========================  
 *002714  
 牧原股份
 2019/7/31
