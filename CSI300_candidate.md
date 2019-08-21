@@ -1,4 +1,5 @@
 
+
 *002424  
 贵州百灵  
 2019/7/31  
@@ -23,9 +24,11 @@
       -Fast up.... Buy?
       
  **002624  
- 完美世界  
- !["002624"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002624.SZ.png)   
-    
+ 碧水源  
+ !["300070"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/300070.SZ.png)  
+ 
+ 
+    双线上升
      可以买  
      
  
