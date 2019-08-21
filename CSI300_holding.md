@@ -10,11 +10,23 @@
       
 
 **600308  
-中直股份 
+中直股份  
 !["600038"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600038.SS.png)  
 
    8/21 购入  ， 目前状态时top+
    
+
+**002174   
+游族网络  
+!["002174"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002174.SZ.png)  
+
+   8/21 购入  ， 目前状态时bottom-  , lost 1% first day
+   
+**002236  
+大华股份  
+!["002236"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002236.SZ.png)  
+
+   8/21 购入  ， 上升中段 ,   0.5% first day    
 
 **603799  
 华友钴业
@@ -96,6 +108,7 @@
 － comments  
      绿线向下 有风险 2019/7/31  
      增长缓慢期间  8／16 持有
+     lost 1%  8/21
 
 
 **600804  
@@ -112,21 +125,8 @@
  !["600570"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600570.SS.png)  
      
      可卖了   
+     已买 8/21 
      
     
         
-*002714  
-牧原股份
-2019/7/31
-!["002714"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002714.SZ.png)
-- comments
-      后段，绿线大于2.。。可入
-      绿线下行，不再考虑
-        
 
-**300072  
-三聚环保  
-!["300072"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/300072.SZ.png)
-- comments  
-     继续持有
-     亏钱，曲线不平滑 ，不考虑    
