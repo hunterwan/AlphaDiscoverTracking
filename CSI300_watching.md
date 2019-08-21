@@ -40,3 +40,10 @@ removed=========================
       后段，绿线大于2.。。可入
       
 
+
+**300072  
+三聚环保  
+!["300072"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/300072.SZ.png)
+- comments  
+     继续持有
+     亏钱，曲线不平滑 ，不考虑    
