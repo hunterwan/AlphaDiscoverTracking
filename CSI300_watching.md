@@ -7,7 +7,14 @@
       -just cross ...wait ?
        空间太小
       
-
+002415  
+海康威视
+2019/7/30  
+!["002415"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002415.SZ.png)  
+- comments  
+     --上升中段 可以买入
+     
+     
 600376    
 首开股份    
 2019/8/20  
