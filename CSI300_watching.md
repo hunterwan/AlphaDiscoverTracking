@@ -1,3 +1,18 @@
+600104  
+上汽汽车 
+2019/8/21   
+!["600104"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600104.SS.png)  
+- comments  
+      -waiting up
+      
+600332 
+白云山
+2019/8/21   
+!["600104"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600332.SS.png)  
+- comments  
+      -waiting green cross
+      
+      
 601607  
 上海医药  
 2019/7/30  
