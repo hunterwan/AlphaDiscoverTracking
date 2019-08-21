@@ -14,6 +14,15 @@
 !["002065"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002065.SZ.png)  
 - comments  
       红绿齐升的可能性大  
+      已买
+
+
+*002292  
+奥飞娱乐
+2019/8/21  
+!["002292"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002292.SZ.png)  
+- comments  
+      底部 娱乐股，可买入
       
 000423  
 东阿阿胶  
