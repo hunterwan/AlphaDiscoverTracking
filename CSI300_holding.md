@@ -6,8 +6,51 @@
 - comments:
       Just startup
       8/16买入
+      keep holding...and lost 1% ...8/21
+      
+
+**600308  
+中直股份 
+!["600038"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/600038.SS.png)  
+
+   8/21 购入  ， 目前状态时top+
+   
+
+**603799  
+华友钴业
+!["603799"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/603799.SS.png)  
+
+   8/21 购入  ， 目前状态时top+
+   
+
+**002624  
+完美世界  
+!["002624"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002624.SZ.png)  
+
+- comments:
+      in up stage
+      8/21买入  3.46% return first day.
       
       
+      
+*002065  
+东华软件  
+2019/7/31  
+!["002065"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/002065.SZ.png)  
+- comments  
+      红绿齐升的可能性大  
+      8/21 买入
+      
+      
+  **002624  
+ 碧水源  
+ !["300070"](http://www.alphadiscover.com/marketstate/cn_CSI300_stock/img/300070.SZ.png)  
+ 
+ 
+    双线上升
+     可以买  
+     8.21 buy in ,lost 1.16%
+     
 
 **002572  
 索非亚  
